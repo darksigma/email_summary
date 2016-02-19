@@ -143,7 +143,7 @@ def main():
     st = SummaryTool()
 
     # Build the sentences dictionary
-    sentences_dic = st.get_senteces_ranks(content)
+    sentences_dic = st.get_sentences_ranks(content)
 
     # Build the summary with the sentences dictionary
     summary = st.get_summary(title, content, sentences_dic)
