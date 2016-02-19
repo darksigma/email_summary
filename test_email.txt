@@ -1,0 +1,44 @@
+Max,
+
+Pleasure to e-meet you! Suzanne, thanks for the introduction! (moving you to bcc)
+
+I'm in LA this weekend, pretty slammed this week too because I just got back from a recruiting trip in Boston and have some catching up to do. I might have some time on Sunday to chat, and I'm happy to meet up in SF when you're here too!
+
+I've only heard about HT through Suzanne and the link you sent me, it seems like a wonderful event! Also, please tell me more about being a 'sourcer'
+
+I'm interested in many things! I figured I'd write up a ton of stuff, and we can chat about the stuff that most interest you. 
+
+Here are some of the ones I'm currently working on (I guess you could call then intersections)
+
+- AI startup that hybridizes two formerly separate schools of AI, deep learning and symbolic AI, to build systems that are interpretable and can learn from ridiculously small amounts of data. These are the two biggest barriers to leveraging AI to do task automation in the workplace. These two fields have been kept apart due to staunch lines in the ideological academic sand, but by viewing their merits to a pragmatic end, we can figure out how to leverage them in concert for massive practical benefit. Here's a little piece I'm working on getting published that goes over the core thesis, but is definitely written for a common audience: https://docs.google.com/document/d/18jlve5DngwytOSfD3tRLS3r-P6RKWeSOrYtMf2Kaysc/edit Please don't share this until it's published, thanks! We've gotten the blessing of several of the 'founding fathers' of the field of AI, and we're pretty confident this is the direction the field needs to move in.
+
+I've put a lot of thought into how AI will move into the workplace, and how we can do it in a way that leaves society a far better place.
+
+- Tech has no publications that offer insightful, high quality writing about technology and it's interplay with society. Just as publications such as The Atlantic and The New Yorker presuppose a familiarity with a culture and the arts, and cover the world from this perspective, there needs to be a publication that presupposes some level of technical aptitude to cover the interplay of technology and society in a more nuanced, thoughtful manner. I'm going to call this publication 'The Pacific'. I started this about a week ago, we have funding and a couple writers, but not much else to show for it because it's so young.
+
+- A small seed stage investment fund focused on 'core technologies'. Fundamental technological innovations are more agnostic to market swings, and drive greater value over time. My partner and I have VC experience, and both have strong hard-tech backgrounds in a variety of fields, so we leverage this to our advantage. We've invested in two companies to date (fund began 3 months ago), one a genomics company, and the other one a trucking logistics and brokerage company.
+
+- Parallels between the politically ambitious ancients, and the modern day ambitious technologist. In ancient times, political maneuvering was the most powerful tool to affect the state of the world, so philosophers took a catered interest in investigating the politically ambitious. They used them as a canvas to paint their theories of  virtue, and how one could use politics to affect the world in the most virtuous way. Now that technology is the most powerful tool to change the world, what can we learn from the politically ambitious ancients to see to it that as technologists we make the world a more virtuous place? I'm mainly drawing from Plato's Alcibiades I, II, and Symposium, as well as Xenophon's Cyropaedia. 
+
+
+Other intersections I've explored, but haven't worked on/are not currently working on:
+
+Particle physics and medical imaging:
+
+-Developed a particle collider in my basement to produce neutrons, and developed a soft tissue medical imaging system that utilized those neutrons.
+
+-Currently diligencing  a company (TRUUST) for investment that uses the math behind particle detectors in LHC to image the electrical impulses in the brain. They can get ~1mm voxel resolution and 1ms temporal resolution. Multiple orders of magnitude better than fMRI. This will turn the neuroscience and neuromedicine industries on their heads. Sort of like what galileo's telescope did for cosmology/astronomy, but for the brain. 
+
+What AI enables beyond the standard workplace:
+
+-How AI/intelligent agents will enable us to make a market on anything, and enable an on-demand economy of everything.
+
+-How the healthcare system needs to be rebuilt. Payers, providers, and patients in the US all have very different incentives. The system is slow, and resistant to innovation. We need to use technology to build an entirely new healthcare system from the ground up. When the steam grid was replaced by the electrical grid, the steam grid was not progressively phased out in favor of the electrical grid. The new electrical grid was built in parallel. I connected SF's top concierge doctor to the head of MIT's AI lab to help accelerate this process.
+
+Internet/Space:
+-How to deliver internet to the entire planet. Developed the prototype of the internet-communication links for SpaceX's network of 4000 internet satellites.  
+
+PS I love the Frankl quote... Man's Search for Meaning was one of the most personally influential books I've read. 
+
+Best,
+Will
