@@ -21,7 +21,7 @@ if __name__ == "__main__":
     parser = PlaintextParser.from_file(text_file, Tokenizer(LANGUAGE))
     stemmer = Stemmer(LANGUAGE)
 
-    summarizer = TextRankSummarizer(stemmer)
+    summarizer = BiasedTextRankSummarizer(stemmer)
     summarizer.stop_words = get_stop_words(LANGUAGE)
 
     for sentence in summarizer(parser.document, SENTENCES_COUNT):
