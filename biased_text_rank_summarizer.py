@@ -20,7 +20,7 @@ text_file = sys.argv[1]
 
 
 if __name__ == "__main__":
-    
+    parser = PlaintextParser.from_string('yo', Tokenizer(LANGUAGE))    
     parser = PlaintextParser.from_file(text_file, Tokenizer(LANGUAGE))
     stemmer = Stemmer(LANGUAGE)
     bias_functions_and_weights = [[is_imperative, 10.0], [is_question, 10.0], [is_conditional, 10.0]]
